@@ -47,7 +47,7 @@ The dashboard ingests cleaned YouTube channel datasets (included) or accepts cus
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Youtube-Channel-Analytics-2025.git
+git clone https://github.com/MAbdullahWaqar/Youtube-Channel-Analytics-2025.git
 cd Youtube-Channel-Analytics-2025
 
 # 2. (Recommended) Create a virtual environment
@@ -198,6 +198,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**vanix056**
-- GitHub: [@vanix056](https://github.com/vanix056)
-- Repository: [Youtube-Channel-Analytics-2025](https://github.com/vanix056/Youtube-Channel-Analytics-2025)
+**Muhammad Abdullah Waqar**
+- GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
+- Repository: [Youtube-Channel-Analytics-2025](https://github.com/MAbdullahWaqar/Youtube-Channel-Analytics-2025)
